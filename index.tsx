@@ -14,3 +14,8 @@ root.render(
     <App />
   </React.StrictMode>
 );
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
