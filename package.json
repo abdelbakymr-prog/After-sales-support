@@ -20,3 +20,15 @@
     "vite": "^6.2.0"
   }
 }
+{
+  "scripts": {
+    "build": "vite build"
+  },
+  "dependencies": {
+    "react": "^18.x.x",
+    "react-dom": "^18.x.x"
+  },
+  "devDependencies": {
+    "vite": "^5.x.x"
+  }
+}
